@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("<p>Docker-node-funapp</p>");
+  res.send("<p>Docker-node-funap</p>");
 
 });
 
